@@ -1,4 +1,4 @@
-# husky 🐕 — the shell pen
+# kelpie 🐕 — the shell pen
 
 The desktop-shell pack: compositor config, quickshell, dotfiles, env doctrine,
 deploy engine, doctor, and the DP3/keeper surface. Thin coordinator pen over

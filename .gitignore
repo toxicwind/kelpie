@@ -1,4 +1,4 @@
-# husky — thin coordinator (olympus/geode pattern: metadata + bin + docs only)
+# kelpie — thin coordinator (olympus/geode pattern: metadata + bin + docs only)
 # Kitchen-sink: products/ are peer standalone repos, referenced-not-owned.
 *
 !.gitignore

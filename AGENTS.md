@@ -1,4 +1,4 @@
-# AGENTS.md — Husky (`pens/husky`)
+# AGENTS.md — Kelpie (`pens/kelpie`)
 
 > Part of the estate's pens family. A pens repo is a **thin coordinator**, not a
 > product monorepo. It owns only its own metadata, `bin/`, and `docs/`. Products
