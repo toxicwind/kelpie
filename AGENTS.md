@@ -6,10 +6,8 @@
 
 ## The pack (products are peer repos)
 
-- `products/estate-shell` — **the flagship**: shell SSOT (dots, env doctrine,
-  pure-TS deploy engine, env doctor). This is the platform axis — none of the
-  public quickshell rices (Panacea, Serashell, Shizuka) have engine/doctor.
-- (next) `products/estate-end4` — quickshell ii dots lineage (visual axis).
+- `products/whistle` — **the flagship engine**: env doctrine (whistle), deploy engine (herd), env doctor (scent). Pure-TS, kelpie-themed. Platform axis — none of the public quickshell rices (Panacea, Serashell, Shizuka) have engine/doctor.
+- `products/ww` — **the visual shell**: Working Wuff (Australian kelpie mascot), the quickshell rice. The aesthetic catch-up product.
 - (next) the DP3/keeper surface.
 
 ## Rules
@@ -24,5 +22,5 @@
 ## Comparison anchor (2026-11-02)
 
 Public quickshell rices own the *visual* axis (shell.qml, widgets, lockscreens).
-Husky owns the *platform* axis (env doctrine, deploy, doctor) — that is the
+Kelpie owns the *platform* axis (env doctrine, deploy, doctor) — that is the
 estate's differentiator; the visual surface is the catch-up product.
