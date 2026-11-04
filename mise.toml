@@ -1,2 +1,1 @@
-[tools]
-bun = "latest"
+# toolchain inherited from pens-root mise.toml (2026-11-04 consolidation)
